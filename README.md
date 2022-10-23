@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Schoelitsz, Terri!
-- 👀 I’m interested in artifiial intelligence, software engineering and security
+- 👀 I’m interested in artificial intelligence, software engineering and security
 - 🌱 I’m currently learning java and javascript, PHP and trying to deepen my understanding of the MySQL platform
 
 I know a decent amount of C# and python. My goal is to become an a.i. engineer. To reach this goal, I have a list of skills to improve, starting with some front-end 
