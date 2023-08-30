@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schoelitsz, Terri!
-- 👀 I’m interested in artificial intelligence, software engineering and security
-- 🌱 I’m currently learning javascript, PHP and trying to deepen my understanding of algorithms
+- 👀 I’m interested in artificial intelligence, embedded software engineering and cyber security
+- 🌱 I’m currently working on Python, C#, and trying to deepen my understanding of algorithms and machine learning
 
 I know a decent amount of C# and python. My goal is to become an a.i. engineer. To reach this goal, I have a list of skills to improve, starting with some front-end 
 and back-end skills, specifically database to improve my data management. Once fully grown in my role as full-stack/software engineering, I'll make steps towards data 
