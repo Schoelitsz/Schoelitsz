@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @Schoelitsz, Terri!
-- 👀 I’m interested in artificial intelligence, embedded software engineering and cyber security
-- 🌱 I’m currently working on Python, C#, and trying to deepen my understanding of algorithms and machine learning
+<!-- Short Summary About Yourself -->
+ <h1 style="text-align: center;">Hi, I'm Terri</h1>
+<p style="text=align: center;">I'm a software engineer and passionate about the use of A.I. in the future. I enjoy working with Python and C#, and I'm always looking for new challenges.</p>
 
-I know a decent amount of C# and python. My goal is to become an a.i. engineer. To reach this goal, I have a list of skills to improve, starting with some front-end 
-and back-end skills, specifically database to improve my data management. Once fully grown in my role as full-stack/software engineering, I'll make steps towards data 
-engineering. 
-<!---
-Schoelitsz/Schoelitsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Stats -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Schoelitsz&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
+<!-- Projects -->
+# Projects
+<!-- Project 1 -->
+<details>
+  <summary><b>Project 1:</b> Project Name</summary>
+  <!-- Description -->
+  <p>Description of the project goes here.</p>
+  <!-- Technologies Used -->
+  <p><b>Technologies Used:</b> Tech1, Tech2, Tech3</p>
+  <!-- Links -->
+  <p><a href="#">GitHub</a> | <a href="#">Demo</a></p>
+</details>
+
+<!-- Project 2 -->
+<details>
+  <summary><b>Project 2:</b> Project Name</summary>
+  <!-- Description -->
+  <p>Description of the project goes here.</p>
+  <!-- Technologies Used -->
+  <p><b>Technologies Used:</b> Tech1, Tech2, Tech3</p>
+  <!-- Links -->
+  <p><a href="#">GitHub</a> | <a href="#">Demo</a></p>
+</details>
+
+<!-- Project 3 -->
+<details>
+  <summary><b>Project 3:</b> Project Name</summary>
+  <!-- Description -->
+  <p>Description of the project goes here.</p>
+  <!-- Technologies Used -->
+  <p><b>Technologies Used:</b> Tech1, Tech2, Tech3</p>
+  <!-- Links -->
+  <p><a href="#">GitHub</a> | <a href="#">Demo</a></p>
+</details>
+
+<!-- Footer -->
+## Connect with Me
+You can find me on the following platforms:
+- [GitHub](https://github.com/YourUsername)
+- [LinkedIn](https://www.linkedin.com/in/YourUsername)
+- [Twitter](https://twitter.com/YourUsername)
+
