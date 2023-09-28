@@ -4,7 +4,7 @@
 
 <!-- Stats -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Schoelitsz&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Schoelitsz&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <!-- Footer -->
